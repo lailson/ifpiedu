@@ -11,9 +11,9 @@ function App() {
       <Menu />
 
       <BannerMain
-        videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
+        videoTitle='Quarentena no ifpi'
         url='https://www.youtube.com/watch?v=kHKI2Tjs93Q'
-        videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"}
+        videoDescription={"Fique em casa: Aproveite a quarentena e aprenda como criar um omelete crocante !"}
       />
 
       <Carousel
